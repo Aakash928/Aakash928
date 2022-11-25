@@ -12,7 +12,7 @@
 
 
 
-🌱 I’m recently cloned **clockify website**<br><br>👨‍💻 Have a look at my [Portfolio](https://aakash928.github.io/)<br><br>📫 Reach me at my email asassss337@gmail.com</a><br><br>📄 Have a look at my [Resume]https://drive.google.com/file/d/1mJkvzRTR0s2VGp4SibAP6Hb569wZ_zvn/view?usp=sharing)
+🌱 I’m recently working on **JustShop.com web application**<br><br>👨‍💻 Have a look at my [Portfolio](https://aakash928.github.io/)<br><br>📫 Reach me at my email asassss337@gmail.com</a><br><br>📄 Have a look at my [Resume]https://drive.google.com/file/d/1mJkvzRTR0s2VGp4SibAP6Hb569wZ_zvn/view?usp=sharing)
 
 
   
