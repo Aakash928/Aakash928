@@ -66,5 +66,5 @@
 
  
  <a href="https://githubprofileview.herokuapp.com/">
-        <img src="https://githubprofileview.herokuapp.com/" alt="sagar-gondage" />
+        <img src="https://githubprofileview.herokuapp.com/" alt="akash-gupta" />
     </a>
