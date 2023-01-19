@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-g928/) 
 
 
-👨‍Have a look at my [Portfolio](https://aakash928.github.io/)<br><br>📫 Reach me at my email asassss337@gmail.com</a><br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/1mJkvzRTR0s2VGp4SibAP6Hb569wZ_zvn/view?usp=sharing)
+👨‍Have a look at my [Portfolio](https://aakash928.github.io/)<br><br>📫 Reach me at my email guptaakash92844@gmail.com</a><br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/1mJkvzRTR0s2VGp4SibAP6Hb569wZ_zvn/view?usp=sharing)
 
 
   
