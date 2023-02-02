@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Gupta<h1>
+  <img src=
+   "https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 <hr/>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash928&label=Profile%20views&color=0e75b6&style=flat" alt="aakash928" /> </p>
 
 
 ## 🌐Socials
@@ -24,7 +27,6 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40"/>
 </p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash928&label=Profile%20views&color=0e75b6&style=flat" alt="aakash928" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash928" alt="aakash928" /></a> 
   </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aakash928&show_icons=true&locale=en&layout=compact" alt="aakash928" /></p>
