@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Gupta<h1>
   <img src=
-   "https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966"/>
+   https://github.com/sushantkr961/sushantkr961/raw/main/assests/readme.webp/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
