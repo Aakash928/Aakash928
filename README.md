@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/sushantkr961/sushantkr961/raw/main/assests/readme.webp" width="400px" />
+  <img src="https://github.com/sushantkr961/sushantkr961/raw/main/assests/readme.webp" width="600px" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=aakash928&label=Cosmic+Visitors&color=blueviolet&style=flat" alt="profile views" />
 </div>
