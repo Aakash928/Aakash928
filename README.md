@@ -25,7 +25,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aakash928.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-g928/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaakash92844@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1C32J4UENjPWV84Jnz2xGG7QFrgs18Muh/view)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/11XlZ8qiIwH_Doz36ke4Dna5Z35zhIEYS/view?usp=sharing)
+(https://drive.google.com/file/d/1C32J4UENjPWV84Jnz2xGG7QFrgs18Muh/view)
 
 </div>
 
