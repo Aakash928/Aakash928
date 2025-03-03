@@ -2,7 +2,7 @@
   
 # 🚀 Welcome to Akash's Digital Universe! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Java+Full+Stack+Sorcerer+%F0%9F%94%AE;Code+Architect+from+Mumbai+%F0%9F%8C%87;Building+Digital+Dreams+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Java+Spring+Boot+Developer+%F0%9F%94%AE;Code+Architect+from+Mumbai+%F0%9F%8C%87;Building+Digital+Dreams+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
